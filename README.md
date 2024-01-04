@@ -1,5 +1,4 @@
 
-```markdown
 # Text Classification with Logistic Regression
 
 This project contains a Python script for classifying whether a given sentence is the next sentence of a provided paragraph. It utilizes a logistic regression model trained on TF-IDF vectorized text data.
